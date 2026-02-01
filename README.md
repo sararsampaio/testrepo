@@ -1,3 +1,3 @@
-# testrepo
+# Machine Learning - Coursera Course
 
-##Editing this file
+##ML exercise for IBM Data Science course 
