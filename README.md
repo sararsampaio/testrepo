@@ -1,3 +1,3 @@
-# Machine Learning - Coursera Course
+# Rocket Landing Prediction
 
-##ML exercise for IBM Data Science course 
+### Data science and machine learning project focused on predicting rocket landing success.
